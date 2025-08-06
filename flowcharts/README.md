@@ -21,7 +21,7 @@ This flowchart illustrates the **Property Booking** workflow in the Airbnb Clone
 
 ## 🖼️ Flowchart
 
-![Property Booking Flowchart](/data-flow-diagram.png)
+![Property Booking Flowchart](./data-flow-diagram.png)
 
 ---
 
