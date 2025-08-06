@@ -21,7 +21,7 @@ This use case diagram provides a visual representation of how different types of
 
 ## 🖼️ Diagram
 
-![Use Case Diagram](airbnb-use-case-diagram.png)
+![Use Case Diagram](/airbnb-use-case-diagram.png)
 
 ## 📁 File Structure
 
