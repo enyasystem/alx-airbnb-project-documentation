@@ -77,4 +77,33 @@ Below is a high-level data flow diagram showing how the modules communicate:
 ---
 
 ## 📁 File Structure
+features-and-functionalities/
+│
+├── airbnb-backend-features.png # 📊 PNG diagram showing backend modules & data flow
+└── README.md # 📝 This documentation file
+
+yaml
+Copy
+Edit
+
+---
+
+## 📎 Notes
+
+- This diagram is essential for understanding the logic and interdependence of backend services.
+- The project follows modular design principles for better scalability and maintenance.
+- All modules can be extended with additional microservices (e.g., Reviews, Notifications) in future phases.
+
+---
+
+## ✅ Next Steps
+
+- Ensure all services have corresponding routes, controllers, and database schemas.
+- Implement unit and integration tests for each module.
+- Set up CI/CD and deploy to cloud infrastructure for staging.
+
+---
+
+> ✨ _This documentation is part of the ALX Airbnb Backend Documentation Project. For more updates, follow this repo._
+
 
